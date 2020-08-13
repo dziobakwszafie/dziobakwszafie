@@ -9,4 +9,4 @@ I'm an aspiring Frontend Dev from Gliwice (Poland).
 - sail (but not often :< ) 
 - and ye, filmmaking a little bit 
 
-Have to finally finish my official website, so y'know keep ur fingers crossed. 
+Have to finally finish my official website, so u know, keep ur fingers crossed. 
