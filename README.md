@@ -1,6 +1,6 @@
 # Sup guys! 
 
-I'm an aspiring Frontend Dev from Gliwice (Poland). 
+I'm a junior Frontend Dev from Gliwice (Poland). 
 
 ## What do i do? 
 - code ski apps 
