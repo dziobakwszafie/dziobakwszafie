@@ -6,3 +6,6 @@
 - and ye, filmmaking a little bit 
 
 
+### Side projects:
+- servthem ski app - TypeScript, Node.js, React Native
+- my website - Typescript, Gatsby 
