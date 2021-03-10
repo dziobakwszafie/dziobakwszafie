@@ -6,7 +6,3 @@
 - filmmaking a little bit 
 
 
-### Side projects on working on currently:
-- servthem ski app - TypeScript, Node.js, React Native, Docker
-- my website - Typescript, Gatsby 
-- ... and two other apps, which are secret now.
