@@ -8,5 +8,5 @@
 - filmmaking a little bit 
 
 
-## Our open source Decentralized Autonomous Organization 
+### Open source Decentralized Autonomous Organization I participated
 https://github.com/dao-doers/dao-frontend
